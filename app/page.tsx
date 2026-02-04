@@ -5,7 +5,7 @@ export default function LoginPage() {
       <p>幹事のためのイベント管理ツール</p>
 
       <a href="/login">
-        <button>ログイン画面へ</button>
+        <button>ログイン画面へgo!</button>
       </a>
 
 
