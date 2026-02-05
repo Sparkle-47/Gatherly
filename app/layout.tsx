@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Gatherly | 幹事のためのツール",
+  title: "トリマト | 幹事のためのツール",
   description: "同窓会・イベント幹事を楽にするWebサービス",
 };
 
